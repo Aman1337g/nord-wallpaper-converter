@@ -26,7 +26,7 @@ A Python script that efficiently converts images to use the [Nord color palette]
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/nord-wallpaper-converter.git
+git clone https://github.com/Aman1337g/nord-wallpaper-converter.git
 cd nord-wallpaper-converter
 ```
 
